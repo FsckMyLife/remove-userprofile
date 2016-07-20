@@ -2,6 +2,8 @@
 #Developer: Andrew Saraceni (saraceni@wharton.upenn.edu)
 #Date: 12/22/14
 
+#This script is great.
+
 #Requires -Version 2.0
 
 function Remove-UserProfile
